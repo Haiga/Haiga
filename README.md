@@ -38,14 +38,14 @@ See my [Linkedin](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-752
 **Some Repos 📘**
 
 <p align="center">
-
+<img 
+width="51%"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=haiga&repo=l2r-feature-selection-with-Deap"
+/>
  <img width="49%"
   src="https://github-readme-stats.vercel.app/api/pin/?username=haiga&repo=santander-home-kotlin"
 /> <img width="49%"
   src="https://github-readme-stats.vercel.app/api/pin/?username=haiga&repo=client-server-with-Sockets-in-C"
-/><img 
-width="49%"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=haiga&repo=l2r-feature-selection-with-Deap"
 />
 
 </p>
