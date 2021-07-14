@@ -1,7 +1,7 @@
 
 ### Hi, It's Pedro
 
-See my Linkedin for more about me
+See my [Linkedin](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-7523a2144/) for more about me.
 <img
     alt="Linkedin" href="https://pedro-henr.github.io/portfolio/"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
